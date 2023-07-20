@@ -5,3 +5,4 @@ Just some random things
 - This is awesome!
 - For Demo only
 - Sumit made this change
+- This is an example to make a merge comflict
